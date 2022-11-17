@@ -15,7 +15,7 @@ public class Main
 		System.out.println("Alphabet");
 		else
 		System.out.println("Not an alphabet");
-		
+	
 	}
 }
                                   
