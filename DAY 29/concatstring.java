@@ -12,7 +12,7 @@ System.out.println("Enter the second string");
 String b = obj.nextLine();
 System.out.println(a+b);
 }
-} 
+}
 
 Output
 Enter the first string
